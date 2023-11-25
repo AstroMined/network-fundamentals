@@ -1,3 +1,3 @@
 # Chapter 3
 
-Placeholder text for Chapter 3.
+Characteristics of Fiber-Optic Cable
