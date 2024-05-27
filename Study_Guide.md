@@ -3,7 +3,7 @@
 ---
 
 #### **Definition of a Network**
-Welcome to the fascinating world of networking! Let's start with what a network is. Imagine a web connecting various computers, devices, and communication tools. These connections allow them to share resources and data. This interconnected system is what we call a network. It consists of nodes and hosts. The major benefit of networking is that it lets us share equipment and data effortlessly. However, there's a downside: networks can be costly and vulnerable to cyberattacks.
+Let's start with what a network is. Imagine a web connecting various computers, devices, and communication tools. These connections allow them to share resources and data. This interconnected system is what we call a network. It consists of nodes and hosts. The major benefit of networking is that it lets us share equipment and data effortlessly. However, there's a downside: networks can be costly and vulnerable to cyberattacks.
 
 #### **Network Classifications**
 Networks come in different sizes and serve various purposes. Here are the main types:
